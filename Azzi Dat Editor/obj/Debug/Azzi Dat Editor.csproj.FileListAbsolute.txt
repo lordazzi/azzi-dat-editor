@@ -1,0 +1,17 @@
+C:\Users\Azzi\AppData\Local\Temporary Projects\Azzi Dat Editor\bin\Debug\Azzi Dat Editor.exe
+C:\Users\Azzi\AppData\Local\Temporary Projects\Azzi Dat Editor\bin\Debug\Azzi Dat Editor.pdb
+C:\Users\Azzi\AppData\Local\Temporary Projects\Azzi Dat Editor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Azzi\AppData\Local\Temporary Projects\Azzi Dat Editor\obj\Debug\Azzi_Dat_Editor.masterform.resources
+C:\Users\Azzi\AppData\Local\Temporary Projects\Azzi Dat Editor\obj\Debug\Azzi_Dat_Editor.Properties.Resources.resources
+C:\Users\Azzi\AppData\Local\Temporary Projects\Azzi Dat Editor\obj\Debug\Azzi Dat Editor.csproj.GenerateResource.Cache
+C:\Users\Azzi\AppData\Local\Temporary Projects\Azzi Dat Editor\obj\Debug\Azzi Dat Editor.exe
+C:\Users\Azzi\AppData\Local\Temporary Projects\Azzi Dat Editor\obj\Debug\Azzi Dat Editor.pdb
+C:\Users\Azzi\Documents\Visual Studio 2008\Projects\Azzi Dat Editor\Azzi Dat Editor\obj\Debug\Azzi Dat Editor.exe
+C:\Users\Azzi\Documents\Visual Studio 2008\Projects\Azzi Dat Editor\Azzi Dat Editor\obj\Debug\Azzi Dat Editor.pdb
+C:\Users\Azzi\Documents\Visual Studio 2008\Projects\Azzi Dat Editor\Azzi Dat Editor\bin\Debug\Azzi Dat Editor.exe
+C:\Users\Azzi\Documents\Visual Studio 2008\Projects\Azzi Dat Editor\Azzi Dat Editor\bin\Debug\Azzi Dat Editor.pdb
+C:\Users\Azzi\Documents\Visual Studio 2008\Projects\Azzi Dat Editor\Azzi Dat Editor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Azzi\Documents\Visual Studio 2008\Projects\Azzi Dat Editor\Azzi Dat Editor\obj\Debug\Azzi_Dat_Editor.masterform.resources
+C:\Users\Azzi\Documents\Visual Studio 2008\Projects\Azzi Dat Editor\Azzi Dat Editor\obj\Debug\Azzi_Dat_Editor.Properties.Resources.resources
+C:\Users\Azzi\Documents\Visual Studio 2008\Projects\Azzi Dat Editor\Azzi Dat Editor\obj\Debug\Azzi Dat Editor.csproj.GenerateResource.Cache
+C:\Users\Azzi\Documents\Visual Studio 2008\Projects\Azzi Dat Editor\Azzi Dat Editor\obj\Debug\Azzi_Dat_Editor.datview.resources
